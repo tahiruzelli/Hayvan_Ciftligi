@@ -1,0 +1,19 @@
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\bin\Debug\proje ödevim.exe.config
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\bin\Debug\proje ödevim.exe
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\bin\Debug\proje ödevim.pdb
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\obj\Debug\proje ödevim.csprojAssemblyReference.cache
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\obj\Debug\proje_ödevim.Form1.resources
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\obj\Debug\proje_ödevim.Properties.Resources.resources
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\obj\Debug\proje ödevim.csproj.GenerateResource.cache
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\obj\Debug\proje ödevim.csproj.CoreCompileInputs.cache
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\obj\Debug\proje ödevim.exe
+C:\Users\tahir\source\repos\proje ödevim\proje ödevim\obj\Debug\proje ödevim.pdb
+C:\Users\HP\Downloads\Compressed\g181210005\proje ödevim\proje ödevim\bin\Debug\proje ödevim.exe.config
+C:\Users\HP\Downloads\Compressed\g181210005\proje ödevim\proje ödevim\bin\Debug\proje ödevim.exe
+C:\Users\HP\Downloads\Compressed\g181210005\proje ödevim\proje ödevim\bin\Debug\proje ödevim.pdb
+C:\Users\HP\Downloads\Compressed\g181210005\proje ödevim\proje ödevim\obj\Debug\proje ödevim.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Compressed\g181210005\proje ödevim\proje ödevim\obj\Debug\proje_ödevim.Form1.resources
+C:\Users\HP\Downloads\Compressed\g181210005\proje ödevim\proje ödevim\obj\Debug\proje_ödevim.Properties.Resources.resources
+C:\Users\HP\Downloads\Compressed\g181210005\proje ödevim\proje ödevim\obj\Debug\proje ödevim.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Compressed\g181210005\proje ödevim\proje ödevim\obj\Debug\proje ödevim.exe
+C:\Users\HP\Downloads\Compressed\g181210005\proje ödevim\proje ödevim\obj\Debug\proje ödevim.pdb
